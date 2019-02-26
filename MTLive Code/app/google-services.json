@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651558705464",
+    "firebase_url": "https://myapplica-fcfca.firebaseio.com",
+    "project_id": "myapplica-fcfca",
+    "storage_bucket": "myapplica-fcfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651558705464:android:9083a43201983a91",
+        "android_client_info": {
+          "package_name": "com.example.lilyzhou.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651558705464-82istn4t56l8ghvd8vala358r69v9sgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lilyzhou.myapplication",
+            "certificate_hash": "84d3a5064e374f06a305ec99351aad1777b3a52c"
+          }
+        },
+        {
+          "client_id": "651558705464-16i3c02g99qn7j6so5rs0h6k9ueq4sjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEeXAMMMO9n7sQAtfgZaeuwI3N2up8fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651558705464-16i3c02g99qn7j6so5rs0h6k9ueq4sjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
